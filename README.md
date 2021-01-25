@@ -1,7 +1,7 @@
 # React app
 
 [Specification](https://docs.google.com/document/d/1XaOjatJ4HsJXNlZq0rSdJbqBbiYjvb1BKJ8QsQYfHaI/edit)<br>
-[Link to gh-pages](http://andreyelek.github.io/weather-app)<br>
+[Link to gh-pages](http://fuchinoko.github.io/weather-app)<br>
 This project was bootstrapped with Create React App.
 
 ## Available Scripts
